@@ -1,0 +1,29 @@
+name: Pinterest token refresh
+
+on:
+  schedule:
+    - cron: "11 4 2 * *"   # 2nd of every month, 04:11 UTC — before the 30-day expiry
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install pynacl (secret encryption)
+        run: pip install pynacl
+
+      - name: Refresh Pinterest tokens and update secrets
+        run: python refresh_tokens.py
+        env:
+          PINTEREST_CLIENT_SECRET: ${{ secrets.PINTEREST_CLIENT_SECRET }}
+          PINTEREST_REFRESH_TOKEN: ${{ secrets.PINTEREST_REFRESH_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
