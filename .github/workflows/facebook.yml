@@ -1,10 +1,8 @@
 name: Facebook autopilot
 
 on:
-  schedule:
-    - cron: "29 10 * * 2"    # Tuesday 10:29 UTC (12:29 Tunis)
-    - cron: "3 16 * * 6"     # Saturday 16:03 UTC (18:03 Tunis)
-  workflow_dispatch:          # manual trigger (agent or user)
+  # schedule disabled — module shelved at owner request (2026-10-04); re-enable anytime
+  workflow_dispatch:
 
 permissions:
   contents: write
