@@ -1,0 +1,42 @@
+name: Bluesky autopilot
+
+on:
+  schedule:
+    - cron: "37 9 * * 1,3,5"   # Mon/Wed/Fri 09:37 UTC (11:37 Tunis)
+    - cron: "41 16 * * 0"      # Sunday 16:41 UTC (18:41 Tunis)
+  workflow_dispatch:            # manual trigger (agent or user)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bluesky-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Post next queue entry
+        run: python autopilot.py
+        env:
+          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+
+      - name: Commit updated queue state
+        run: |
+          git config user.name "autopilot-bot"
+          git config user.email "actions@github.com"
+          git add queue.json
+          if git diff --staged --quiet; then
+            echo "No state change (dry-run or empty queue)."
+          else
+            git commit -m "autopilot: mark entry posted [skip ci]"
+            git push
+          fi
