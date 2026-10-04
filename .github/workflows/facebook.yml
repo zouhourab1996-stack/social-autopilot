@@ -1,14 +1,16 @@
-name: Reddit autopilot
+name: Facebook autopilot
 
 on:
-  # schedule disabled — module shelved at owner request (2026-10-04); re-enable anytime
-  workflow_dispatch:
+  schedule:
+    - cron: "29 10 * * 2"    # Tuesday 10:29 UTC (12:29 Tunis)
+    - cron: "3 16 * * 6"     # Saturday 16:03 UTC (18:03 Tunis)
+  workflow_dispatch:          # manual trigger (agent or user)
 
 permissions:
   contents: write
 
 concurrency:
-  group: reddit-post
+  group: facebook-post
   cancel-in-progress: false
 
 jobs:
@@ -22,21 +24,19 @@ jobs:
           python-version: "3.12"
 
       - name: Post next queue entry
-        run: python reddit.py
+        run: python fb.py
         env:
-          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
-          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
-          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
-          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
 
       - name: Commit updated queue state
         run: |
           git config user.name "autopilot-bot"
           git config user.email "actions@github.com"
-          git add reddit.json
+          git add fb.json
           if git diff --staged --quiet; then
             echo "No state change (dry-run or empty queue)."
           else
-            git commit -m "reddit: mark entry posted"
+            git commit -m "facebook: mark entry posted"
             git push
           fi
