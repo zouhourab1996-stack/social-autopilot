@@ -1,0 +1,44 @@
+name: Reddit autopilot
+
+on:
+  schedule:
+    - cron: "53 9 * * 3"    # Wednesday 09:53 UTC (11:53 Tunis)
+    - cron: "17 15 * * 6"   # Saturday 15:17 UTC (17:17 Tunis)
+  workflow_dispatch:         # manual trigger (agent or user)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: reddit-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Post next queue entry
+        run: python reddit.py
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+
+      - name: Commit updated queue state
+        run: |
+          git config user.name "autopilot-bot"
+          git config user.email "actions@github.com"
+          git add reddit.json
+          if git diff --staged --quiet; then
+            echo "No state change (dry-run or empty queue)."
+          else
+            git commit -m "reddit: mark entry posted"
+            git push
+          fi
