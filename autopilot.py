@@ -74,7 +74,7 @@ def upload_image(path, token):
 def post_entry(entry):
     session = api("/xrpc/com.atproto.server.createSession",
                   {"identifier": HANDLE, "password": PASSWORD})
-    token = session["access_token"]
+    token = session["accessJwt"]
     did = session["did"]
 
     text = entry["text"]
