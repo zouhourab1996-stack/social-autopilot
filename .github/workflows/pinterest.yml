@@ -1,0 +1,40 @@
+name: Pinterest autopilot
+
+on:
+  schedule:
+    - cron: "23 10 * * 2,4,6"   # Tue/Thu/Sat 10:23 UTC (12:23 Tunis)
+  workflow_dispatch:            # manual trigger (agent or user)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pinterest-pin
+  cancel-in-progress: false
+
+jobs:
+  pin:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pin next queue entry
+        run: python pinterest.py
+        env:
+          PINTEREST_ACCESS_TOKEN: ${{ secrets.PINTEREST_ACCESS_TOKEN }}
+
+      - name: Commit updated pins state
+        run: |
+          git config user.name "autopilot-bot"
+          git config user.email "actions@github.com"
+          git add pins.json
+          if git diff --staged --quiet; then
+            echo "No state change (dry-run or empty queue)."
+          else
+            git commit -m "pinterest: mark pin posted"
+            git push
+          fi
