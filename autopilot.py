@@ -19,6 +19,7 @@ import html as html_mod
 import json
 import os
 import re
+import time
 import urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -65,11 +66,17 @@ def link_facet(text, url):
 
 
 def fetch_meta(url):
-    """og:title / og:description / og:image from the target page."""
-    try:
-        req = urllib.request.Request(url, headers={"User-Agent": UA})
-        page = urllib.request.urlopen(req, timeout=12).read(500_000).decode("utf-8", "replace")
-    except Exception:
+    """og:title / og:description / og:image from the target page (with one retry)."""
+    page = ""
+    for attempt in range(2):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            page = urllib.request.urlopen(req, timeout=12).read(500_000).decode("utf-8", "replace")
+            break
+        except Exception:
+            if attempt == 0:
+                time.sleep(5)  # transient runner-side fetch failures (redirects, timeouts)
+    if not page:
         return "", "", ""
     def og(prop):
         m = re.search(r'<meta[^>]+(?:property|name)=["\']' + prop + r'["\'][^>]+content=["\']([^"\']*)["\']', page, re.I) \
@@ -125,6 +132,18 @@ def build_post(entry, token):
                                             raw=raw, content_type=ct, token=token)["blob"]
                 except SystemExit:
                     pass  # post without a thumbnail rather than not posting
+        if "thumb" not in external and entry.get("image"):
+            # local fallback: the queue entry ships its own image file
+            local = os.path.join(os.path.dirname(QUEUE_PATH), entry["image"])
+            if os.path.isfile(local):
+                with open(local, "rb") as f:
+                    raw = f.read(950_000)
+                ct = "image/png" if local.lower().endswith(".png") else "image/jpeg"
+                try:
+                    external["thumb"] = api("/xrpc/com.atproto.repo.uploadBlob",
+                                            raw=raw, content_type=ct, token=token)["blob"]
+                except SystemExit:
+                    pass
         embed = {"$type": "app.bsky.embed.external", "external": external}
 
     if embed is None:
