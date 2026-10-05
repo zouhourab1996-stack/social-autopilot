@@ -108,8 +108,9 @@ def with_url(text, url):
 
 
 def build_post(entry, token):
-    """Assemble the post record: link card when possible, URL-in-text fallback."""
-    text, url = entry["text"], entry["url"]
+    """Assemble the post record: link card when possible, URL-in-text fallback.
+    Entries with a reply_to field become replies (no card/facet needed)."""
+    text, url = entry["text"], entry.get("url")
     record = {
         "$type": "app.bsky.feed.post",
         "text": text,
@@ -119,42 +120,46 @@ def build_post(entry, token):
     }
 
     embed = None
-    title, desc, image = fetch_meta(url)
-    if title:
-        external = {"uri": url, "title": title[:256]}
-        if desc:
-            external["description"] = desc[:256]
-        if image:
-            raw, ct = download(image)
-            if raw:
-                try:
-                    external["thumb"] = api("/xrpc/com.atproto.repo.uploadBlob",
-                                            raw=raw, content_type=ct, token=token)["blob"]
-                except SystemExit:
-                    pass  # post without a thumbnail rather than not posting
-        if "thumb" not in external and entry.get("image"):
-            # local fallback: the queue entry ships its own image file
-            local = os.path.join(os.path.dirname(QUEUE_PATH), entry["image"])
-            if os.path.isfile(local):
-                with open(local, "rb") as f:
-                    raw = f.read(950_000)
-                ct = "image/png" if local.lower().endswith(".png") else "image/jpeg"
-                try:
-                    external["thumb"] = api("/xrpc/com.atproto.repo.uploadBlob",
-                                            raw=raw, content_type=ct, token=token)["blob"]
-                except SystemExit:
-                    pass
-        embed = {"$type": "app.bsky.embed.external", "external": external}
+    if url:
+        title, desc, image = fetch_meta(url)
+        if title:
+            external = {"uri": url, "title": title[:256]}
+            if desc:
+                external["description"] = desc[:256]
+            if image:
+                raw, ct = download(image)
+                if raw:
+                    try:
+                        external["thumb"] = api("/xrpc/com.atproto.repo.uploadBlob",
+                                                raw=raw, content_type=ct, token=token)["blob"]
+                    except SystemExit:
+                        pass  # post without a thumbnail rather than not posting
+            if "thumb" not in external and entry.get("image"):
+                # local fallback: the queue entry ships its own image file
+                local = os.path.join(os.path.dirname(QUEUE_PATH), entry["image"])
+                if os.path.isfile(local):
+                    with open(local, "rb") as f:
+                        raw = f.read(950_000)
+                    ct = "image/png" if local.lower().endswith(".png") else "image/jpeg"
+                    try:
+                        external["thumb"] = api("/xrpc/com.atproto.repo.uploadBlob",
+                                                raw=raw, content_type=ct, token=token)["blob"]
+                    except SystemExit:
+                        pass
+            embed = {"$type": "app.bsky.embed.external", "external": external}
 
-    if embed is None:
-        text = with_url(text, url)
-        record["text"] = text
+        if embed is None:
+            text = with_url(text, url)
+            record["text"] = text
 
-    facet = link_facet(text, url)
-    if facet:
-        record["facets"] = [facet]
+        facet = link_facet(text, url)
+        if facet:
+            record["facets"] = [facet]
     if embed:
         record["embed"] = embed
+    if entry.get("reply_to"):
+        record["reply"] = {"root": entry["reply_to"]["root"],
+                           "parent": entry["reply_to"]["parent"]}
     return record
 
 
@@ -183,10 +188,14 @@ def main():
 
     print(f"Next post: {entry['text'][:80]}...")
     if DRY_RUN:
-        title, desc, image = fetch_meta(entry["url"])
-        print(f"DRY-RUN (no credentials). Would post:\n"
+        url = entry.get("url") or "(reply — no link)"
+        title = desc = image = None
+        if entry.get("url"):
+            title, desc, image = fetch_meta(entry["url"])
+        reply_note = " [REPLY]" if entry.get("reply_to") else ""
+        print(f"DRY-RUN (no credentials). Would post:{reply_note}\n"
               f"  text   : {entry['text']}\n"
-              f"  url    : {entry['url']}\n"
+              f"  url    : {url}\n"
               f"  card   : {'YES — ' + title[:60] if title else 'no (URL appended to text)'}\n"
               f"  og:img : {image or '-'}")
         return
