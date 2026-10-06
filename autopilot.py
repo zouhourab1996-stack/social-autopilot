@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """
 Bluesky autopilot — posts the next unposted entry from queue.json.
+Optional per-entry "tags": ["Tag1","Tag2"] appends clickable #hashtags (standing
+rule 2026-10-06: every post carries 2-4 topical hashtags for reach).
 
 Each run posts exactly one entry, marks it posted (with its at:// URI) and
 commits the state back (done by the GitHub Actions workflow).
@@ -63,6 +65,38 @@ def link_facet(text, url):
     end = start + len(url.encode("utf-8"))
     return {"index": {"byteStart": start, "byteEnd": end},
             "features": [{"$type": "app.bsky.richtext.facet#link", "uri": url}]}
+
+
+def tag_facets(text, url=None):
+    """Byte-offset facets for #hashtags so they are clickable and searchable."""
+    facets = []
+    skip = (-1, -1)
+    if url:
+        i = text.find(url)
+        if i >= 0:
+            skip = (i, i + len(url))
+    for m in re.finditer(r"#([A-Za-z0-9_]{2,40})", text):
+        s0, e0 = m.span()
+        if skip[0] <= s0 < skip[1]:
+            continue  # a fragment inside the URL, not a hashtag
+        if s0 > 0 and (text[s0 - 1].isalnum() or text[s0 - 1] == "#"):
+            continue  # C#-like adjacency or doubled ##
+        bs = len(text[:s0].encode("utf-8"))
+        be = bs + len(m.group(0).encode("utf-8"))
+        facets.append({"index": {"byteStart": bs, "byteEnd": be},
+                       "features": [{"$type": "app.bsky.richtext.facet#tag", "tag": m.group(1)}]})
+    return facets
+
+
+def append_tags(text, tags, reserve=0):
+    """Append '#Tag' items while respecting LIMIT (minus a reserve for the URL)."""
+    if not tags:
+        return text
+    for t in tags:
+        piece = " #" + t
+        if len(text) + len(piece) + reserve <= LIMIT:
+            text += piece
+    return text
 
 
 def fetch_meta(url):
@@ -149,12 +183,26 @@ def build_post(entry, token):
             embed = {"$type": "app.bsky.embed.external", "external": external}
 
         if embed is None:
+            text = append_tags(text, entry.get("tags"), reserve=len(url) + 2)
             text = with_url(text, url)
             record["text"] = text
+        else:
+            text = append_tags(text, entry.get("tags"))
+            record["text"] = text
 
+        facets = []
         facet = link_facet(text, url)
         if facet:
-            record["facets"] = [facet]
+            facets.append(facet)
+        facets.extend(tag_facets(text, url))
+        if facets:
+            record["facets"] = facets
+    else:
+        text = append_tags(text, entry.get("tags"))
+        record["text"] = text
+        facets = tag_facets(text)
+        if facets:
+            record["facets"] = facets
     if embed:
         record["embed"] = embed
     if entry.get("reply_to"):
