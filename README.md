@@ -1,3 +1,16 @@
+# ⛔ STATUS: PAUSED (2026-10-06)
+
+Bluesky took down @zouab1.bsky.social for spam-pattern flags. Appeal in progress.
+Schedules in publish.yml are disabled — do not dispatch manually either.
+
+## Cadence rules once restored (mandatory)
+- Max **1 post per day** — never more than one dispatch per shipment day; batch announcements into a single post.
+- Mix ratio ~2:1 — value posts (tips, facts, no links) : link posts.
+- No follow/unfollow automation of any kind. Ever.
+- Keep 2-3 topical hashtags max per post.
+
+---
+
 
 ## Standing rule (from the owner, 2026-10-04)
 Whenever a new article is published on any of our Blogger blogs or GitHub Pages sites,
