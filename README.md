@@ -1,7 +1,15 @@
-# ⛔ STATUS: PAUSED (2026-10-06)
+# ⚠️ STATUS: RESTORED under FINAL WARNING (2026-10-06)
 
-Bluesky took down @zouab1.bsky.social for spam-pattern flags. Appeal in progress.
-Schedules in publish.yml are disabled — do not dispatch manually either.
+Account reinstated after appeal — but Bluesky issued a **final warning**: any repeat
+(spam patterns OR bulk following) = permanent spam label or permanent takedown.
+
+## Re-entry protocol (mandatory)
+- **48–72h of silence first** — no posting until 2026-10-09.
+- Then max **1 post per day**, dispatched manually — cron stays OFF until 2–3 clean weeks.
+- Strict mix 2:1 — value posts (no links) : link posts. Value entries are in the queue
+  (no "url" field). Alternate: link → value → link…
+- Batch multi-shipment announcements into ONE post, never one post per product.
+- Zero following/unfollowing. Network grows organically only.
 
 ## Cadence rules once restored (mandatory)
 - Max **1 post per day** — never more than one dispatch per shipment day; batch announcements into a single post.
