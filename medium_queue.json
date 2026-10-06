@@ -1,0 +1,73 @@
+{
+  "updated": "2026-10-07",
+  "note": "Source of truth for order/rationale: /home/user/MEDIUM-IMPORT-QUEUE.md (waves 1+2). All URLs verified HTTP 200 on 2026-10-06. Protocol: max 2/week, canonicalUrl always the source page.",
+  "entries": [
+    {
+      "id": 1,
+      "url": "https://olivegrove.bond/olive-tree-timeline.html",
+      "tags": ["Olive Trees", "Gardening", "Tunisia", "Agriculture", "Sustainability"],
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "url": "https://www.bmrcalc.bond/2026/10/bmr-formula-all-equations-explained.html",
+      "tags": ["Health", "Nutrition", "Fitness", "Science", "Metabolism"],
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "url": "https://olivegrove.bond/water-well.html",
+      "tags": ["Water", "Farming", "Africa", "Engineering", "Sustainability"],
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "url": "https://prophetic.pw/blog/full-moon-sleep-science/",
+      "tags": ["Science", "Sleep", "Health", "Moon", "Psychology"],
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "url": "https://olivegrove.bond/story.html",
+      "tags": ["Tunisia", "Farming", "Entrepreneurship", "Agriculture", "Life Lessons"],
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "url": "https://www.bmrcalc.bond/2026/09/does-starvation-mode-exist-bmr-science.html",
+      "tags": ["Nutrition", "Health", "Science", "Metabolism", "Diet"],
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "url": "https://www.bmrcalc.bond/2026/09/does-cold-shower-boost-bmr.html",
+      "tags": ["Health", "Wellness", "Science", "Metabolism", "Fitness"],
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "url": "https://olivegrove.bond/cattle-farm.html",
+      "tags": ["Farming", "Agriculture", "Data", "Tunisia", "Business"],
+      "status": "pending"
+    },
+    {
+      "id": 9,
+      "url": "https://www.bmrcalc.bond/2026/10/thermic-effect-of-food-protein-honest-math.html",
+      "tags": ["Nutrition", "Science", "Health", "Protein", "Metabolism"],
+      "status": "pending"
+    },
+    {
+      "id": 10,
+      "url": "https://prophetic.pw/blog/1111-portal-2026/",
+      "tags": ["Spirituality", "Numerology", "Manifestation", "Mindfulness", "Self Improvement"],
+      "status": "pending",
+      "note": "seasonal: import only within 2-4 weeks before Nov 11"
+    },
+    {
+      "id": 11,
+      "url": "https://prophetic.pw/blog/saturn-return-in-aries-2026/",
+      "tags": ["Astrology", "Spirituality", "Self Improvement", "Zodiac", "Saturn Return"],
+      "status": "pending"
+    }
+  ]
+}
