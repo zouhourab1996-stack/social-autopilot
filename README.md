@@ -49,3 +49,19 @@ relative URLs absolutized, h1-title dedup, stray tags self-closed) →
 - Protocol: max 2 posts/week · value articles only · canonical always the
   source page · zero bulk follows/engagement (same rule that saved bsky).
 - NOT wired into any cron. Publishing is by explicit command only.
+
+## dev.to channel (devto_publisher.py) — added 2026-10-07
+
+dev.to's API is open (Forem): POST /api/articles with the `api-key` header —
+body_markdown, tags (max 4), canonical_url, main_image. Queue:
+`devto_queue.json`, markdown pre-built from prophetic.pw `src/data/reviews.ts`
+(4 long-form reviews; the 6 short-form ones are reserved for a future roundup).
+
+- Verify token: `DEVTO_TOKEN=... python3 devto_publisher.py --check`
+- Preview (no token): `python3 devto_publisher.py --dry-run --entry 1`
+- Publish as draft: `DEVTO_TOKEN=... python3 devto_publisher.py --publish --entry 1`
+- Draft -> public:  `DEVTO_TOKEN=... python3 devto_publisher.py --flip --entry 1`
+- Protocol: FIRST ARTICLE ALWAYS AS DRAFT, verify rendering, then flip.
+  Max 2/week · canonical_url always the source page · affiliate disclosure
+  line included in every review markdown.
+- NOT wired into any cron. Publishing is by explicit command only.
