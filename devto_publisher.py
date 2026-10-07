@@ -85,7 +85,12 @@ def main():
     ap.add_argument("--flip", action="store_true", help="flip an existing draft to public")
     ap.add_argument("--entry", type=int, help="entry id (default: first pending)")
     ap.add_argument("--status", choices=["draft", "public"], default="draft")
-    ap.add_argument("--token", default=os.environ.get("DEVTO_TOKEN"))
+    keyfile = os.path.join(HERE, ".devto_key")
+    default_token = os.environ.get("DEVTO_TOKEN")
+    if not default_token and os.path.exists(keyfile):
+        with open(keyfile) as f:
+            default_token = f.read().strip()
+    ap.add_argument("--token", default=default_token)
     a = ap.parse_args()
 
     q = load_queue()
