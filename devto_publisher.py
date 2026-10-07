@@ -48,7 +48,8 @@ def api_call(path, token, payload=None, method=None):
                   method=method or ("POST" if data else "GET"),
                   headers={"api-key": token,
                            "Content-Type": "application/json",
-                           "Accept": "application/vnd.forem.api-v1+json"})
+                           "Accept": "application/vnd.forem.api-v1+json",
+                           "User-Agent": "Mozilla/5.0 (compatible; autopilot/1.0)"})
     try:
         with urlopen(req, timeout=30) as r:
             body = r.read().decode("utf-8", "replace")
