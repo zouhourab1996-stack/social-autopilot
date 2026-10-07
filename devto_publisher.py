@@ -173,6 +173,8 @@ def main():
         if code in (200, 201):
             print("DEVTO URL:", body.get("url"))
             ent["status"] = "public"
+            if body.get("url"):
+                ent["devto_url"] = body["url"]  # final slug replaces draft temp-slug
             ent["flipped_at"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
             q["updated"] = ent["flipped_at"]
             save_queue(q)
