@@ -52,6 +52,7 @@ TRANSPARENT = {"div", "span", "section", "main", "article", "body", "html",
                "thead", "tbody", "tfoot", "tr", "td", "th", "caption"}
 TABLE_TAGS = {"table", "thead", "tbody", "tfoot", "tr", "td", "th", "caption"}
 VOID = {"br", "hr", "img"}
+NEVER_CLOSES = {"input", "embed", "source", "track", "wbr", "param", "keygen", "base", "link", "meta", "col", "area"}
 
 
 def esc(t, quote=False):
@@ -233,6 +234,8 @@ class Sanitizer(HTMLParser):
                 self.skip_depth += 1
             return
         if tag in DROP:
+            if tag in VOID or tag in NEVER_CLOSES:
+                return  # tag that never closes: skip it alone, no skip mode
             self.skip_tag = tag
             self.skip_depth = 1
             return
