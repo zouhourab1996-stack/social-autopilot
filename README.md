@@ -65,3 +65,15 @@ body_markdown, tags (max 4), canonical_url, main_image. Queue:
   Max 2/week · canonical_url always the source page · affiliate disclosure
   line included in every review markdown.
 - NOT wired into any cron. Publishing is by explicit command only.
+
+## Pinterest channel (pinterest.py) — status 2026-10-09
+
+- Runs daily (10:23 UTC) and on manual dispatch; one pin per run from `pins.json`.
+- **Blocked upstream:** the Pinterest app (client id 1619387) has *Trial* access, and Pinterest
+  rejects production pin creation with error code 29. Until the app is upgraded to **Standard
+  access** at https://developers.pinterest.com/apps/1619387/ the run ends green with a warning
+  and leaves the entry queued. Set `PINTEREST_STRICT=1` to make it fail instead.
+- Pins made by hand in the browser must be added to `pinned_links.json`; the script never
+  pins a link that is already there or already posted (links compared without query/www/slash).
+- Tumblr and X are not automated here (no API apps/secrets); Bluesky cron stays off (final warning),
+  Reddit/Facebook are shelved by the owner.

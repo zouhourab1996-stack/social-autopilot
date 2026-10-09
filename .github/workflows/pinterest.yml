@@ -2,7 +2,7 @@ name: Pinterest autopilot
 
 on:
   schedule:
-    - cron: "23 10 * * 2,4,6"   # Tue/Thu/Sat 10:23 UTC (12:23 Tunis)
+    - cron: "23 10 * * *"       # daily 10:23 UTC (11:23 Tunis) - one pin per run
   workflow_dispatch:            # manual trigger (agent or user)
 
 permissions:
@@ -36,5 +36,6 @@ jobs:
             echo "No state change (dry-run or empty queue)."
           else
             git commit -m "pinterest: mark pin posted"
-            git push
+            git pull --rebase --autostash
+          git push
           fi

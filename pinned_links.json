@@ -1,0 +1,17 @@
+{
+  "_note": "Pins that already exist on the Pinterest account (created manually in the browser). pinterest.py never pins a link listed here, so automation cannot duplicate a manual pin. Add every manually created pin here. Audited 2026-10-09 from pinterest.com/webdev_touati/_created/ (18 pins).",
+  "pins": [
+    {"link": "https://olivegrove.bond/olive-tree-in-a-pot.html", "pin_url": "https://www.pinterest.com/pin/948781846521969241/"},
+    {"link": "https://trustscore.bond/reviews/fiverr-pro-review/", "pin_url": "https://www.pinterest.com/pin/948781846521969056/"},
+    {"link": "https://prophetic.pw/blog/orionid-meteor-shower-2026/", "pin_url": "https://www.pinterest.com/pin/948781846521968770/"},
+    {"link": "https://www.pro-reviewer.cyou/2026/10/how-to-use-fiverr-mira.html", "pin_url": "https://www.pinterest.com/pin/948781846521968202/"},
+    {"link": "https://propheticguidance2026.blogspot.com/2026/10/chinese-zodiac-2027-fire-goat-year.html", "pin_url": "https://www.pinterest.com/pin/948781846521968164/"},
+    {"link": "https://www.pro-reviewer.cyou/2026/10/fiverr-logo-maker-pricing.html", "pin_url": "https://www.pinterest.com/pin/948781846521968150/"},
+    {"link": "https://www.bmrcalc.bond/2026/10/average-bmr-by-age-chart.html", "pin_url": "https://www.pinterest.com/pin/948781846521967705/"},
+    {"link": "https://trustscore.bond/tools/fiverr-fee-calculator/", "pin_url": "https://www.pinterest.com/pin/948781846521967349/"},
+    {"link": "https://prophetic.pw/blog/the-last-wish-review/", "pin_url": "https://www.pinterest.com/pin/948781846521967120/"},
+    {"link": "https://prophetic.pw/blog/scorpio-season-2026/", "pin_url": "https://www.pinterest.com/pin/948781846521938213/"},
+    {"link": "https://trustscore.bond/reviews/fiverr-vs-upwork-small-business/", "pin_url": "https://www.pinterest.com/pin/948781846521938158/"},
+    {"link": "https://prophetic.pw/blog/eastern-astrology-language-reading-review/", "pin_url": "https://www.pinterest.com/pin/948781846521937727/"}
+  ]
+}
