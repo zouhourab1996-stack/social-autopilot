@@ -1,5 +1,9 @@
 # FIVERR-150 — خطة حملة الـ150 خدمة (يحصد B · يبني A · العمولة للمالك bta=1177474)
 
+> **⚠️ تحول 2026-10-11 (ليلاً): رصيد B الشهري ينفد — A تولى الحصاد والكتابة والنشر بنفسه** (الحصاد عبر بحث الويب: بيانات gigs حية مفهرسة = حقيقية بلا تخمين).
+> **التقدم: 22/150** ✓ الموجة 1 حية: `trustscore.bond/reviews/best-fiverr-ai-automation-gigs/` ‏(10 خدمات) + `best-fiverr-psychic-readers/` ‏(12 قارئًا) — commit trustscore `fb98f3e` · IndexNow ‏200 · روابط bta=1177474 متتبعة.
+> الموجات القادمة (A): VA/data-entry · video editing/Shorts · voice over · logo hub (2 gigs متحققة جاهزة) · web dev · SEO · copywriting · illustration · music/podcast · translation · Shopify · tarot-on-twinflame · pro-reviewer drafts.
+
 **الهدف:** 150 خدمة Fiverr عالية الطلب، كل رابط أفلييت خاص بالمالك، موزعة على الأماكن الصحيحة، بتحليل منافسين وفجوات قبل كل صفحة.
 
 ## 1) البنية الذكية (قرار خبير SEO — ليس 150 صفحة رقيقة!)

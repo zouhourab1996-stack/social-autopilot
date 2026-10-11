@@ -14,6 +14,10 @@
 - [ ] https://daysuntil.bond/ramadan-2027/
 - [ ] https://daysuntil.bond/
 
+## اليوم 1.5 (إضافة عاجلة — أول القائمة قبل twinflame): صفحاتا الموجة 1 الجديدتان
+- [ ] https://trustscore.bond/reviews/best-fiverr-ai-automation-gigs/
+- [ ] https://trustscore.bond/reviews/best-fiverr-psychic-readers/
+
 ## اليوم 2 (الثلاثاء) — twinflame (بنيتها أُصلحت 2026-10-11 وتنتظر)
 - [ ] https://twinflame.bond/ · signs.html · separation.html · stages.html
 - [ ] tools/twin-flame-calculator.html · tools/twin-flame-test.html · tools/angel-number-lookup.html
