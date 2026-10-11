@@ -1,0 +1,8 @@
+<p class="bm-small">Sources: The Smoothie Diet official sales page (smoothiediet.com), checked October 11, 2026; Mifflin MD et al., "A new predictive equation for resting energy expenditure in healthy individuals," <em>Am J Clin Nutr</em> 1990 (PMID 2305711); Hall KD et al., "Quantification of the effect of energy imbalance on bodyweight," <em>Lancet</em> 2011 (PMID 21872751); Astbury NM et al., "A systematic review and meta-analysis of the effectiveness of meal replacements for weight loss," <em>Obes Rev</em> 2019 (PMID 30675990); Flood-Obbagy JE, Rolls BJ, "The effect of fruit in different forms on energy intake and satiety at a meal," <em>Appetite</em> 2009 (PMID 19110020).</p>
+
+</div>
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"How much weight can you lose on The Smoothie Diet?","acceptedAnswer":{"@type":"Answer","text":"It depends on your calorie deficit. A deficit of about 500 kcal per day often leads to slow, steady loss, but the first week's drop is mostly water. The seller's testimonials are not typical results."}},
+{"@type":"Question","name":"How many calories are in the smoothies?","acceptedAnswer":{"@type":"Answer","text":"The sales page does not list them. Fruit, nut butters and juice can add up fast, so measure ingredients and count them for a few days."}},

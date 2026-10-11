@@ -1,0 +1,22 @@
+BRAND: [fonts, colors, logo files attached]
+DEADLINE: [date and time zone]
+REVISIONS: [how many rounds you expect]
+DELIVERABLES: [final MP4, project file?, thumbnail?]
+BUDGET: [your range]
+QUESTION: Can you share a sample similar to this style?</div>
+
+<h2 id="hire">Step by step: placing your first order</h2>
+
+<ol>
+<li>Search the <strong>Video Editing</strong> category and filter by budget and delivery time.</li>
+<li>Shortlist three editors whose samples match your format.</li>
+<li>Message each with the brief. Ask for a custom offer if your project does not fit a package.</li>
+<li>Choose the one with the clearest answer, not only the lowest price.</li>
+<li>Upload footage with clear file names and a list of timestamps you want kept or cut.</li>
+<li>Review the first cut carefully and send all feedback in one organized message with timestamps.</li>
+<li>Approve only when the final file matches the brief. Leave honest feedback.</li>
+</ol>
+
+<div class="pr-cta">
+<p><strong>Ready to compare editors?</strong> Browse portfolios and package prices in Fiverr's video editing category.</p>
+<p><a class="pr-btn" href="https://go.fiverr.com/visit/?bta=1177474&amp;brand=fiverrmarketplace&amp;landingPage=https%3A%2F%2Fwww.fiverr.com%2Fcategories%2Fvideo-animation%2Fvideo-editing" target="_blank" rel="sponsored nofollow noopener">Browse video editors on Fiverr</a></p>

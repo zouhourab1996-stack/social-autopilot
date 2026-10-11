@@ -1,0 +1,15 @@
+<p>Fiverr's terms generally transfer rights in the delivered work to the buyer once it is paid for, unless the gig says otherwise. Ask about music and stock footage licenses separately, since those belong to third parties.</p>
+
+<h3>Is it safe to pay a video editor on Fiverr?</h3>
+<p>Paying through Fiverr is the safe route: the platform holds payment until the order is completed. Never pay outside Fiverr, even if a seller offers a discount.</p>
+
+<h3>How long does a video edit take?</h3>
+<p>Short clips often take one to three days. Long or complex edits can take a week or more. Rush delivery is usually a paid extra.</p>
+
+<p class="pr-small">Sources: Fiverr, "How Much Does a Video Editor Cost?" (fiverr.com/resources/guides/video-animation/video-editor-cost); Fiverr Payment Terms of Service (fiverr.com/legal-portal/legal-terms/payment-terms-of-service), checked October 2026.</p>
+
+</div>
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"How much should I pay for a YouTube video edit on Fiverr?","acceptedAnswer":{"@type":"Answer","text":"It depends on length and effects. Fiverr's guide puts an average basic edit near $65, while longer YouTube edits with B-roll, captions and color often cost $100 to $400 or more. Add Fiverr's 5.5% service fee, plus $3.50 under $200."}},

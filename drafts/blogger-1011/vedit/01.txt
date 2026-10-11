@@ -1,0 +1,21 @@
+<style>
+.pr-wrap{font-size:17px;line-height:1.7;color:#222}
+.pr-wrap h2{margin-top:1.8em;padding-bottom:.3em;border-bottom:2px solid #dff3e6}
+.pr-wrap h3{margin-top:1.4em}
+.pr-box{border-radius:10px;padding:16px 20px;margin:22px 0}
+.pr-key{background:#eefaf2;border-left:5px solid #1dbf73}
+.pr-note{background:#fff8e6;border-left:5px solid #e6a100}
+.pr-warn{background:#fdeeee;border-left:5px solid #d64545}
+.pr-table{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:20px 0}
+.pr-table table{border-collapse:collapse;width:100%;min-width:540px;font-size:15px}
+.pr-table th{background:#14532d;color:#fff;text-align:left;padding:10px}
+.pr-table td{border:1px solid #dde3ea;padding:10px;vertical-align:top}
+.pr-table tr:nth-child(even) td{background:#f8fafc}
+.pr-cta{background:#f3faf6;border:1px solid #bfe8cf;border-radius:10px;padding:16px 20px;margin:24px 0}
+.pr-cta a.pr-btn{display:inline-block;background:#1dbf73;color:#fff;padding:10px 18px;border-radius:6px;text-decoration:none;font-weight:bold}
+.pr-small{font-size:14px;color:#555}
+.pr-brief{background:#f6f7f9;border:1px solid #dde3ea;border-radius:10px;padding:16px 20px;margin:22px 0;font-family:Consolas,Menlo,monospace;font-size:14.5px;white-space:pre-wrap}
+</style>
+
+<div class="pr-wrap">
+

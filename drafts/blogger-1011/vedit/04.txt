@@ -1,0 +1,21 @@
+<p>Fiverr's <a href="https://www.fiverr.com/legal-portal/legal-terms/payment-terms-of-service" target="_blank" rel="noopener">payment terms</a> say buyers pay a service fee of 5.5% of the purchase amount, and purchases under US$200 also get a $3.50 small order fee. Each payment carries its own fee, so extras and tips added later are charged again. Checkout always shows the final total before you pay.</p>
+
+<div class="pr-table">
+<table>
+<tr><th>Gig price</th><th>Service fee (5.5%)</th><th>Small order fee</th><th>You pay (before tax)</th></tr>
+<tr><td>$50</td><td>$2.75</td><td>$3.50</td><td>$56.25</td></tr>
+<tr><td>$150</td><td>$8.25</td><td>$3.50</td><td>$161.75</td></tr>
+<tr><td>$300</td><td>$16.50</td><td>none</td><td>$316.50</td></tr>
+</table>
+</div>
+
+<p class="pr-small">Tip: if you need several short videos, one bigger order usually costs less in fees than many tiny ones.</p>
+
+<h2 id="types">Pick the right kind of video editor</h2>
+
+<p>"Video editor" covers very different skills. Searching for the exact job you need saves a lot of back-and-forth.</p>
+
+<ul>
+<li><strong>Short-form editors</strong> focus on Reels, TikTok, and Shorts: fast cuts, animated captions, trending pacing.</li>
+<li><strong>YouTube editors</strong> handle long talking-head videos, retention edits, B-roll, chapters, and sometimes thumbnails.</li>
+<li><strong>Podcast editors</strong> sync multiple cameras, clean audio, and cut clips from long episodes.</li>

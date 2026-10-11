@@ -1,0 +1,22 @@
+<style>
+.pg-wrap{font-size:17px;line-height:1.7;color:#222}
+.pg-wrap h2{margin-top:1.8em;padding-bottom:.3em;border-bottom:2px solid #f1e3d3}
+.pg-wrap h3{margin-top:1.4em}
+.pg-box{border-radius:10px;padding:16px 20px;margin:22px 0}
+.pg-key{background:#fff4ec;border-left:5px solid #c0392b}
+.pg-note{background:#fff9e6;border-left:5px solid #e0a800}
+.pg-table{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:20px 0}
+.pg-table table{border-collapse:collapse;width:100%;min-width:540px;font-size:15px}
+.pg-table th{background:#8e2b1f;color:#fff;text-align:left;padding:10px}
+.pg-table td{border:1px solid #eadcd2;padding:10px;vertical-align:top}
+.pg-table tr:nth-child(even) td{background:#fdf8f4}
+.pg-wrap blockquote{margin:22px 0;padding:14px 20px;background:#f8f4ef;border-left:5px solid #b8860b;font-style:italic}
+.pg-small{font-size:14px;color:#555}
+.pg-spon{background:#f3f6fa;border:1px dashed #9fb3c8}
+</style>
+
+<div class="pg-wrap">
+
+<p><img src="https://cdn.jsdelivr.net/gh/zouhourab1996-stack/trustscore@main/img/blog/seraphina-tarot-review-hero.jpg" alt="Three tarot cards face down on purple velvet beside a candle, amethyst crystal, lavender and a crescent moon ornament" width="1200" height="675" style="width:100%;height:auto;border-radius:10px" /></p>
+
+<div class="pg-box pg-note">

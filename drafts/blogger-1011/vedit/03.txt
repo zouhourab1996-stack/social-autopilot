@@ -1,0 +1,18 @@
+<h2 id="cost">How much does a video editor cost on Fiverr in 2026?</h2>
+
+<p>Every seller sets their own price, so there is no fixed rate. Still, a few patterns hold. In its <a href="https://www.fiverr.com/resources/guides/video-animation/video-editor-cost" target="_blank" rel="noopener">video editor cost guide</a>, Fiverr says a basic editing job (cutting scenes, rearranging, adding transitions) averages about $65, and that editors often price per minute of finished video or per project.</p>
+
+<p>Here is a realistic way to think about budget. These are rough ranges, not quotes, and they move with length, footage quality, and how fast you need it.</p>
+
+<div class="pr-table">
+<table>
+<tr><th>Project type</th><th>What it usually includes</th><th>Rough budget range</th></tr>
+<tr><td>Short social clip (15–60 sec)</td><td>Cuts, captions, music, 9:16 export</td><td>Low tens of dollars to around $100</td></tr>
+<tr><td>Basic edit (a few minutes)</td><td>Trimming, ordering scenes, transitions, simple audio cleanup</td><td>Around $65 on average (Fiverr data)</td></tr>
+<tr><td>YouTube video (8–20 min)</td><td>Jump cuts, B-roll, zooms, captions, light color, thumbnail sometimes extra</td><td>Often $100–$400+</td></tr>
+<tr><td>Ad or promo (30–90 sec)</td><td>Hook-first structure, motion text, sound design, several formats</td><td>Often a few hundred dollars</td></tr>
+</table>
+</div>
+
+<h3>Don't forget Fiverr's service fee</h3>
+

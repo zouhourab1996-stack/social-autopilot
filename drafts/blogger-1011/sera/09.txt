@@ -1,0 +1,4 @@
+{"@type":"Question","name":"Can I get a refund?","acceptedAnswer":{"@type":"Answer","text":"The sales page advertises a 365-day money-back guarantee. Orders are processed by ClickBank, which handles refund requests."}},
+{"@type":"Question","name":"Can tarot predict my future?","acceptedAnswer":{"@type":"Answer","text":"No. There is no scientific evidence that tarot predicts events. Many people still find it useful for reflection and journaling."}}
+]}
+</script>

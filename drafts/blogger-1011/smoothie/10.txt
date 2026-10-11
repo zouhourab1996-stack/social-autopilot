@@ -1,0 +1,5 @@
+{"@type":"Question","name":"Is The Smoothie Diet safe for people with diabetes?","acceptedAnswer":{"@type":"Answer","text":"Not without medical guidance. Fruit-heavy smoothies can raise blood sugar. Talk to your doctor or dietitian first."}},
+{"@type":"Question","name":"Do I need an expensive blender?","acceptedAnswer":{"@type":"Answer","text":"No. The seller says a regular blender with a strong motor works fine."}},
+{"@type":"Question","name":"Can I get a refund?","acceptedAnswer":{"@type":"Answer","text":"The sales page promises a 60-day money-back guarantee, and orders are processed through ClickBank."}}
+]}
+</script>

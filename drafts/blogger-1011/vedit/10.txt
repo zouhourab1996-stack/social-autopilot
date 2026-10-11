@@ -1,0 +1,6 @@
+{"@type":"Question","name":"Can I ask for revisions?","acceptedAnswer":{"@type":"Answer","text":"Yes, within the number included in the package you buy. Check the revision count before ordering and send all feedback for each round in one clear message."}},
+{"@type":"Question","name":"Who owns the final video?","acceptedAnswer":{"@type":"Answer","text":"Fiverr's terms generally transfer rights in the delivered work to the buyer once it is paid for, unless the gig says otherwise. Ask about music and stock footage licenses separately."}},
+{"@type":"Question","name":"Is it safe to pay a video editor on Fiverr?","acceptedAnswer":{"@type":"Answer","text":"Paying through Fiverr is the safe route because the platform holds payment until the order is completed. Never pay outside Fiverr."}},
+{"@type":"Question","name":"How long does a video edit take?","acceptedAnswer":{"@type":"Answer","text":"Short clips often take one to three days. Long or complex edits can take a week or more. Rush delivery is usually a paid extra."}}
+]}
+</script>

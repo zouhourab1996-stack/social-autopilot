@@ -1,0 +1,20 @@
+<p><strong>Step 1: BMR (Mifflin-St Jeor, women)</strong><br>
+10 × 70 + 6.25 × 165 − 5 × 35 − 161<br>
+= 700 + 1,031 − 175 − 161 = <strong>about 1,395 kcal/day</strong></p>
+<p><strong>Step 2: TDEE (lightly active, × 1.375)</strong><br>
+1,395 × 1.375 = <strong>about 1,920 kcal/day</strong></p>
+<p><strong>Step 3: the deficit</strong><br>
+If replacing two meals with smoothies brings her total to about 1,450 kcal, her deficit is roughly <strong>470 kcal/day</strong>.</p>
+</div>
+
+<p>You can run your own numbers in seconds with our <a href="https://www.bmrcalc.bond/">BMR calculator</a>, and read the full method in <a href="https://www.bmrcalc.bond/2026/10/how-many-calories-bmr-tdee-honest-math.html">How Many Calories Should I Eat to Lose Weight?</a></p>
+
+<div class="bm-box bm-note">
+<strong>Important:</strong> the sales page does not publish calorie counts for each smoothie. Smoothies with lots of fruit, nut butter, or juice can be surprisingly high in calories. To know your real deficit, weigh or measure the ingredients and add them up at least for a few days.
+</div>
+
+<h2 id="claims">What about "8 pounds in one week"?</h2>
+
+<p>The testimonials are real people's stories, according to the seller, but the page's own disclaimer says they are not typical results. Here is why fast early drops happen and why they usually slow down:</p>
+
+<ul>

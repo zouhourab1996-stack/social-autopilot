@@ -1,0 +1,11 @@
+<p>No. There is no scientific evidence that tarot predicts events. Many people still find it useful for reflection, journaling, and seeing a situation from a new angle.</p>
+
+<p class="pg-small">Sources: Seraphina Tarot public landing, opt-in and sales pages, Terms of Service and Disclaimer (reading.seraphinatarot.co), reviewed October 11, 2026. Prices and offers can change at any time.</p>
+
+</div>
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"How much does Seraphina Tarot cost?","acceptedAnswer":{"@type":"Answer","text":"The sales page seen in October 2026 offered the reading plus audio for $47. The seller tests other prices such as $39 and $57, and the price only appears after you enter your details."}},
+{"@type":"Question","name":"Is Seraphina Tarot legit?","acceptedAnswer":{"@type":"Answer","text":"It is a real digital product sold through ClickBank, with terms, a disclaimer and a refund policy. It is an entertainment product, and claims about ancestral gifts or frequency audio cannot be verified."}},
+{"@type":"Question","name":"Is the reading done by a real person?","acceptedAnswer":{"@type":"Answer","text":"The marketing suggests a hand-crafted reading. The public reading page appears to build text from pre-written passages based on your cards, sign and focus. Live human involvement could not be confirmed."}},

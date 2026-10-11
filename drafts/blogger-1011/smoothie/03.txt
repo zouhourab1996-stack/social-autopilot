@@ -1,0 +1,27 @@
+<li><strong>Best for:</strong> busy people who like smoothies and want a simple structure.</li>
+<li><strong>Skip it if:</strong> you have diabetes or blood-sugar issues without medical guidance, or you know liquid meals leave you hungry.</li>
+</ul>
+</div>
+
+<h2 id="what">What you get in The Smoothie Diet</h2>
+
+<p>According to the official sales page, the purchase includes:</p>
+
+<ul>
+<li>The 21-day program with a set schedule of which meals to replace and when</li>
+<li>More than 36 meal-replacement smoothie recipes</li>
+<li>Shopping lists for each week</li>
+<li>A smoothie-making tips and prep guide, plus a swap list for hard-to-find ingredients</li>
+<li>Bonus 1: a 3-day "smoothie detox"</li>
+<li>Bonus 2: a printable quick-start guide (about 20 pages)</li>
+</ul>
+
+<p>Everything is delivered as PDFs right after checkout. Nothing is shipped. The sales page itself notes that Drew is a health coach, not a doctor.</p>
+
+<h2 id="bmr-math">The BMR math: why any meal-replacement plan can work</h2>
+
+<p>Your body burns energy all day. <strong>BMR</strong> (basal metabolic rate) is what you burn at complete rest. <strong>TDEE</strong> (total daily energy expenditure) adds your movement, exercise, and digestion. Weight loss happens when you eat less than your TDEE over time.</p>
+
+<p>One widely used way to estimate BMR is the Mifflin-St Jeor equation, published in 1990. Here is a worked example for a 35-year-old woman who is 165 cm tall and weighs 70 kg.</p>
+
+<div class="bm-math">

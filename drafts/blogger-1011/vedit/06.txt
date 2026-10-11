@@ -1,0 +1,20 @@
+<li><strong>Asking to pay or talk outside Fiverr.</strong> Fiverr's terms say payments must go through the site. Moving off-platform removes your protection.</li>
+<li><strong>A portfolio full of stock reels</strong> with no client work, or samples that look identical across many different sellers.</li>
+<li><strong>Vague answers</strong> about revisions, delivery time, or what "unlimited" really means.</li>
+<li><strong>Prices far below the market</strong> for long, complex edits. A 20-minute polished video for $10 usually means corners are cut somewhere.</li>
+<li><strong>No questions about your project.</strong> Good editors ask about style, audience, and deadline before they start.</li>
+<li><strong>Unclear music rights.</strong> Ask where music comes from. Unlicensed tracks can get your video muted or claimed.</li>
+</ul>
+</div>
+
+<h2 id="brief">Video editing brief template (copy and paste)</h2>
+
+<p>Editors quote faster and more accurately when they know exactly what you want. Fill this in and send it in your first message.</p>
+
+<div class="pr-brief">PROJECT: [YouTube video / Reel / ad / podcast clip]
+RAW FOOTAGE: [total minutes, number of files, camera or phone]
+FINISHED LENGTH: [e.g. 8–10 minutes / 30 seconds]
+FORMAT: [16:9, 9:16, 1:1] and resolution [1080p / 4K]
+STYLE REFERENCE: [link to 1–2 videos you like + what you like about them]
+MUST INCLUDE: [captions, B-roll, zooms, lower thirds, logo intro, end screen]
+AUDIO: [noise cleanup? background music? who supplies music?]
