@@ -14,7 +14,10 @@
 - [ ] https://daysuntil.bond/ramadan-2027/
 - [ ] https://daysuntil.bond/
 
-## اليوم 1.5 (إضافة عاجلة — أول القائمة قبل twinflame): صفحاتا الموجة 1 الجديدتان
+## اليوم 1.5 (إضافة عاجلة — أول القائمة): الصفحات الخمس الجديدة (موجلتا FIVERR-150)
+- [ ] https://trustscore.bond/reviews/best-fiverr-virtual-assistant-gigs/
+- [ ] https://trustscore.bond/reviews/best-fiverr-video-editing-gigs/
+- [ ] https://trustscore.bond/reviews/best-fiverr-voice-over-gigs/
 - [ ] https://trustscore.bond/reviews/best-fiverr-ai-automation-gigs/
 - [ ] https://trustscore.bond/reviews/best-fiverr-psychic-readers/
 

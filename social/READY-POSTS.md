@@ -113,3 +113,18 @@ https://www.bmrcalc.bond/2026/10/bmr-formula-all-equations-explained.html?utm_so
 3. X: منشور–منشوران يوميًا كحد أقصى.
 4. **صفر متابعة جماعية / إعجاب جماعي / أي أتمتة تفاعل** على كل المنصات — النمو عضوي فقط (هذا ما أنقذ bsky من الحظر).
 5. أعد رابط كل منشور في AGENT-TASKS.md لتحديث الطوابير والزقّ.
+
+
+---
+
+## 📦 دفعة ترويج صفحات Fiverr-150 (أضيفت 2026-10-11 ليلًا — نفّذها عند عودتك فوق القائمة الأساسية)
+
+**bsky (يوم واحد لكل منشور — بهذا الترتيب):**
+1. `The 12 best AI automation gigs on Fiverr, verified from live listings: real prices ($25-$505), real review counts, and the red flags that separate an engineer from a template seller:` + `https://trustscore.bond/reviews/best-fiverr-ai-automation-gigs/?utm_source=bluesky&utm_medium=social` + `#AI #Automation #Fiverr`
+2. `A Fiverr voice-over artist with 8,148 reviews charges $15. We pulled the 12 best voices on the platform — from $5 demos to Fiverr Pro talent — plus the usage-rights math nobody explains:` + `https://trustscore.bond/reviews/best-fiverr-voice-over-gigs/?utm_source=bluesky&utm_medium=social` + `#VoiceOver #VideoMarketing`
+3. `Your faceless Shorts channel doesn't need a $500 editor. The 12 best short-form editors on Fiverr ($5-$105), verified — with the 3-question filter that kills bad hires:` + `https://trustscore.bond/reviews/best-fiverr-video-editing-gigs/?utm_source=bluesky&utm_medium=social` + `#Shorts #Reels #ContentCreator`
+
+**Pinterest (3 pins بصور الصفحات نفسها):**
+- VA: صورة `https://trustscore.bond/img/blog/fiverr-virtual-assistant-hero.jpg` · رابط صفحة VA · عنوان `Hire a Virtual Assistant on Fiverr From $5/Hr — 12 Best (2026)`
+- Video: صورة `best-fiverr-shorts-editor-hero.jpg` · رابط صفحة الفيديو · عنوان `12 Best Fiverr Shorts & Reels Editors (From $5, Verified)`
+- Voice: صورة `best-fiverr-voice-over-hero.jpg` · رابط صفحة الصوت · عنوان `Best Fiverr Voice Over Artists 2026 — Pro Talent From $5`
