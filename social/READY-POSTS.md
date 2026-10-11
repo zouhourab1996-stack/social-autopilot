@@ -102,28 +102,7 @@ https://www.bmrcalc.bond/2026/10/bmr-formula-all-equations-explained.html?utm_so
 
 ---
 
-## 📘 Facebook — أول 3 منشورات (منشور قصة أطول مسموح)
-
-**منشور 1 (قصة الكتاب — الأقوى عاطفيًا):**
-```
-16 hectares of bare Tunisian soil. One year. One honest book.
-
-We're documenting everything — the grafting, the failed wells, the math nobody publishes — and funding the print run directly, no middlemen, because Kickstarter doesn't accept creators from Tunisia.
-
-Follow the project from bare soil to page one: https://olivegrove.bond/olive-grove-book.html
-```
-
-**منشور 2:**
-```
-Can't sleep near the full moon? Two peer-reviewed studies say it might not be your imagination — and the worst nights come BEFORE the peak, not on it.
-
-The honest data, plus your October test window: https://prophetic.pw/blog/full-moon-sleep-science/
-```
-
-**منشور 3:**
-```
-Garden by the moon? We tested the folklore against the science — one Nature study found real lunar rhythms in tree stems. The method, the evidence, and a free 4-week trial you can run on a windowsill: https://prophetic.pw/blog/gardening-by-the-moon/
-```
+## 📘 Facebook — **مُلغى (2026-10-11): حساب المالك غير مفتوح عند B — لا تنشر عليه**
 
 ---
 
@@ -131,6 +110,6 @@ Garden by the moon? We tested the folklore against the science — one Nature st
 
 1. **bsky: منشور واحد يوميًا كحد أقصى** — حساب تحت تحذير نهائي.
 2. Pinterest: ‏2–3 pins يوميًا كحد أقصى (حساب جديد نسبيًا — نمو طبيعي).
-3. Facebook/X: منشور–منشوران يوميًا كحد أقصى لكل منصة.
+3. X: منشور–منشوران يوميًا كحد أقصى.
 4. **صفر متابعة جماعية / إعجاب جماعي / أي أتمتة تفاعل** على كل المنصات — النمو عضوي فقط (هذا ما أنقذ bsky من الحظر).
 5. أعد رابط كل منشور في AGENT-TASKS.md لتحديث الطوابير والزقّ.
