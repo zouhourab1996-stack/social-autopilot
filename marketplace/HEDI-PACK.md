@@ -1,4 +1,4 @@
-# HEDI-PACK v2 — حزمة «Hedi Touati» (تموضع صادق: «مواقعي الحية هي البرهان» — لا ادعاءات سنوات غير قابلة للتوثيق؛ لو أكد المالك خبرة فعلية تُستعاد)
+# HEDI-PACK v3 — حزمة «Hedi Touati» (خبرة 10 سنوات — أكدها المالك 2026-10-11 وموثقة في AGENT-TASKS رسالة #A9 — + الشبكة الحية كإثبات)
 
 **القاعدة الأم:** كل ما يراه الزبون يُكتب بصوت Hedi Touati البشري — **أكتبه أنا (A) حصريًا**، B ينسخ ويرسل فقط. لا يكتب B أي كلمة لزبون بنفسه أبدًا.
 
@@ -16,12 +16,12 @@
 
 ## 2) البايو الرئيسي (Upwork / Freelancer / PPH / Guru — Overview)
 
-**Title/Headline:** `SEO Content Writer & Web Tools Developer | My Sites Rank — Yours Will Too`
+**Title/Headline:** `SEO Content Writer & Web Tools Developer | 10 Years Ranking My Own Sites`
 
 ```
 I build niche websites that rank, and tools people actually use.
 
-My own network of content and tool sites is live right now — countdown pages, calculators, review sites — grown with SEO, not paid ads. Every page was built by me and it gets organic traffic daily. Along the way I got very good at three things: writing content Google sends traffic to, building fast interactive tools (calculators, countdowns, lookups), and turning Blogger/BlogSpot into proper, monetization-ready websites.
+For 10 years I've been building my own network of content and tool sites — countdown pages, calculators, review sites — grown with SEO, not paid ads. The network is live right now, every page built by me, getting organic traffic daily. Along the way I got very good at three things: writing content Google sends traffic to, building fast interactive tools (calculators, countdowns, lookups), and turning Blogger/BlogSpot into proper, monetization-ready websites.
 
 What I can do for you:
 - SEO blog posts and articles — researched, structured, written for humans (I can show you live pages of mine ranking right now)
@@ -36,12 +36,12 @@ Message me — I reply fast.
 
 **البايو القصير (50 كلمة — للحقول المحدودة):**
 ```
-I build my own network of niche sites and tools that live on Google traffic — live and provable right now. I write SEO content that ranks, build fast web calculators, and turn Blogger blogs into real businesses. Intro pricing for my first clients here — I reply fast.
+10 years building my own network of niche sites and tools that live on Google traffic — live and provable right now. I write SEO content that ranks, build fast web calculators, and turn Blogger blogs into real businesses. Intro pricing for my first clients here — I reply fast.
 ```
 
 **البايو العربي (خمسات · مستقل):**
 ```
-أبني شبكة مواقعي الخاصة (عدادات، حاسبات، مدونات) تعيش على زيارات جوجل الطبيعية دون إعلانات. أقدّم: مقالات SEO بالإنجليزية تتصدّر · بناء حاسبات وأدوات ويب تفاعلية سريعة · إعداد وتحسين مدونات بلوجر · فيديو SEO. أعمل مع فريق صغير — التسليم سريع ودقيق. أسعار تمهيدية لأول العملاء هنا.
+أبني منذ 10 سنوات شبكة مواقعي الخاصة (عدادات، حاسبات، مدونات) تعيش على زيارات جوجل الطبيعية دون إعلانات. أقدّم: مقالات SEO بالإنجليزية تتصدّر · بناء حاسبات وأدوات ويب تفاعلية سريعة · إعداد وتحسين مدونات بلوجر · فيديو SEO. أعمل مع فريق صغير — التسليم سريع ودقيق. أسعار تمهيدية لأول العملاء هنا.
 ```
 
 ## 3) الوسوم (Skills — انسخها كما هي)
@@ -87,7 +87,7 @@ I optimize titles, descriptions, tags and chapters using the same method I use o
 - Chapters/timestamps if the video is long enough
 - A short list of things to fix in the video itself (thumbnail text, first 15 seconds)
 
-I get my own content to rank every day — my sites are live, go look. This is the same playbook, applied to your video.
+I've spent 10 years getting my own content to rank — my sites are live, go look. This is the same playbook, applied to your video.
 
 Send me your video link and your main topic, and I'll tell you honestly if I can help before you order.
 ```
