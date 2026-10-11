@@ -14,6 +14,18 @@
 - [ ] https://daysuntil.bond/ramadan-2027/
 - [ ] https://daysuntil.bond/
 
+## اليوم 1.8 (12 أكتوبر مساءً — صفحات محدثة اليوم تحتاج إعادة زحف)
+- [ ] https://daysuntil.bond/cyber-monday-2026/  ← FAQ جديد (موسم الشراء بعد 49 يومًا)
+- [ ] https://daysuntil.bond/us-thanksgiving-2026/  ← FAQ جديد
+- [ ] https://daysuntil.bond/gta-6-release/  ← FAQ جديد (نقرات بأصل 25% CTR)
+- [ ] https://daysuntil.bond/ramadan-2027/  ← FAQ جديد
+- [ ] https://trustscore.bond/reviews/geotargetly-review/  ← تحديث أسعار كامل من المصدر
+- [ ] https://trustscore.bond/marketplace/geotargetly-marketplace/  ← تحديث أسعار
+- [ ] https://trustscore.bond/reviews/audiorista-review/  ← تحديث تاريخ + تحقق أسعار
+- [ ] https://daysuntil.bond/black-friday-2026/  ← FAQ جديد (في قائمة اليوم 1 أيضًا — أولوية مضاعفة)
+- [ ] https://daysuntil.bond/christmas-day-2026/  ← FAQ جديد (مثلها)
+- [ ] https://daysuntil.bond/sitemap.xml (كلا الدومينين — إشارة إعادة زحف عامة)
+
 ## اليوم 1.7 (إضافة: مراجعة Leavo الجديدة — أول القائمة)
 - [ ] https://trustscore.bond/reviews/leavo-review/
 
