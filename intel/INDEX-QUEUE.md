@@ -14,6 +14,9 @@
 - [ ] https://daysuntil.bond/ramadan-2027/
 - [ ] https://daysuntil.bond/
 
+## اليوم 1.7 (إضافة: مراجعة Leavo الجديدة — أول القائمة)
+- [ ] https://trustscore.bond/reviews/leavo-review/
+
 ## اليوم 1.5 (إضافة عاجلة — أول القائمة): الصفحات الخمس الجديدة (موجلتا FIVERR-150)
 - [ ] https://twinflame.bond/fiverr-readings.html
 - [ ] https://trustscore.bond/reviews/best-fiverr-logo-designers/
