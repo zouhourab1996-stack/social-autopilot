@@ -3,3 +3,4 @@ oauth_receiver.py
 __pycache__/
 *.pyc
 .devto_key
+.watcher-state.json
