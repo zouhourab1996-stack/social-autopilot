@@ -1,1 +1,5 @@
+oauth_receiver.py
+.oauth_state
+__pycache__/
+*.pyc
 .devto_key
