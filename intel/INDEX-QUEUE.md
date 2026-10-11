@@ -15,6 +15,15 @@
 - [ ] https://daysuntil.bond/
 
 ## اليوم 1.5 (إضافة عاجلة — أول القائمة): الصفحات الخمس الجديدة (موجلتا FIVERR-150)
+- [ ] https://twinflame.bond/fiverr-readings.html
+- [ ] https://trustscore.bond/reviews/best-fiverr-logo-designers/
+- [ ] https://trustscore.bond/reviews/best-fiverr-web-development-gigs/
+- [ ] https://trustscore.bond/reviews/best-fiverr-seo-gigs/
+- [ ] https://trustscore.bond/reviews/best-fiverr-copywriting-gigs/
+- [ ] https://trustscore.bond/reviews/best-fiverr-illustration-gigs/
+- [ ] https://trustscore.bond/reviews/best-fiverr-music-jingle-gigs/
+- [ ] https://trustscore.bond/reviews/best-fiverr-translation-gigs/
+- [ ] https://trustscore.bond/reviews/best-fiverr-shopify-experts/
 - [ ] https://trustscore.bond/reviews/best-fiverr-virtual-assistant-gigs/
 - [ ] https://trustscore.bond/reviews/best-fiverr-video-editing-gigs/
 - [ ] https://trustscore.bond/reviews/best-fiverr-voice-over-gigs/
