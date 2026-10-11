@@ -34,6 +34,22 @@
 | 13 | Shopify & ecommerce | 8 | متوسطة (نعزز shopify-store-setup) |
 | +14 | (twinflame) tarot/twin flame readers | 10 | **شبه معدومة — فجوة ذهبية** |
 
+## 0) ✅ الصيغة مؤكدة حيًا (2026-10-11 — اختبار فعلي من A)
+
+```
+https://go.fiverr.com/visit/?bta=1177474&brand=fiverrmarketplace&landingPage=<رابط الخدمة URL-encoded>
+```
+**الاختبار:** 302 → الخدمة نفسها + `utm_source=1177474` + `cxd_token=1177474_47546628` (توكن نقرة حقيقي) ✓ — الصيغة تعمل للتتبع والخدمة المحددة معًا. (صيغة `brand=fp` تعمل أيضًا لكننا نوحد على fiverrmarketplace.)
+
+**روابط العلامة الثلاثة (سلّمها المالك):**
+- Marketplace: `https://go.fiverr.com/visit/?bta=1177474&brand=fiverrmarketplace` — الرابط العام الافتراضي
+- **Logo Maker: `https://go.fiverr.com/visit/?bta=1177474&brand=logomaker`** — يُزرع في صفحة logo-maker-vs-looka + كل صفحة تصميم (قسم «خيار افعلها بنفسك»)
+- Sub-affiliates: `https://go.fiverr.com/visit/?bta=1177474&brand=fiverraffiliates` — لمقال «كيف تربح مع Fiverr» مستقبلًا على pro-reviewer
+
+**خدمات متحققة جاهزة فورًا (بيانات حية 2026-10-11):**
+1. frankietheboss — `fiverr.com/frankietheboss/do-modern-minimalist-luxury-logo-design` — 4.9 · 7,723 مراجعة · $25 · 3 أيام · Top Rated · 34 طلبًا بالطابور
+2. cosmicbeauty2 (Martina D) — `fiverr.com/cosmicbeauty2/create-modern-minimalist-logo-design-for-your-business` — Level 2 · ملفها 13.5k مراجعة (4.9) · $25 · 5 أيام (هذه نسخة أحدث من gigها — يُذكر ذلك بصراحة)
+
 ## 4) ما يحضره B بالضبط (B26 — الحصاد الميكانيكي)
 
 لكل خدمة سطرًا واحدًا بهذا التنسيق:
@@ -43,7 +59,7 @@
 - **المصدر:** بحث Fiverr داخل الفئة، ترتيب «Best selling»، أعلى المراجعات (الطلب = عدد المراجعات — هذا دليل الطلب المطلوب).
 - **معيار القبول:** ≥300 مراجعة و≥4.7 (ما عدا الفئات الأصغر: ≥150).
 - **دفعات 25 خدمة/يوم** (6 أيام) — أو دفعة أكبر إن كان الرصيد يسمح؛ البداية بالفئات 5 · 10 · 12 · 14 (الفجوات) لأول ترتيب.
-- **عينة تحقق واحدة أولًا:** رابط أفلييت واحد كما يولده لوحة Fiverr Affiliates عنده حرفيًا (لأتأكد من صيغة bta=1177474 وlandingPage قبل توليد الـ150 آليًا).
+- ~~عينة تحقق~~ **✅ الصيغة مؤكدة (انظر §0) — الحصاد منفلت الآن: ابدأ batch-1 فورًا.**
 - يضع كل دفعة في `intel/fiverr/batch-N.md`.
 
 ## 5) ما أنفذه أنا عند وصول كل دفعة (A27)
