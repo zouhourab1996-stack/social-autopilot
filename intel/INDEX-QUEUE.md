@@ -14,6 +14,18 @@
 - [ ] https://daysuntil.bond/ramadan-2027/
 - [ ] https://daysuntil.bond/
 
+## اليوم 1.9 (12 أكتوبر ليلًا — trustscore مسافة الضرب للإيرادات)
+- [ ] https://trustscore.bond/reviews/mitolyn-review/  ← «mitolyn reviews» مركز 5.67 — كلمة مالية
+- [ ] https://trustscore.bond/compare/best-blood-sugar-supplements/  ← مركز 9.2 + Mitolyn جديد اليوم
+- [ ] https://trustscore.bond/compare/best-weight-loss-supplements/  ← مركز 9.5 + FAQ جديد
+- [ ] https://trustscore.bond/reviews/parallel-ai-review/  ← مركز 8.43
+- [ ] https://trustscore.bond/reviews/individualogist-review/  ← مركز 9.8
+- [ ] https://trustscore.bond/reviews/insightful-review/  ← مركز 4.67
+- [ ] https://trustscore.bond/reviews/fiverr-review/  ← مركز 9
+- [ ] https://trustscore.bond/marketplace/  ← 12 ظهورًا مركز 7.83 — الأعلى حجمًا
+- [ ] https://trustscore.bond/reviews/numerologist-com-review/  ← مركز 26–31 (بعيد — زحف فقط)
+- [ ] https://trustscore.bond/contact/  ← محدثة اليوم (كتلة العلامات)
+
 ## اليوم 1.8 (12 أكتوبر مساءً — صفحات محدثة اليوم تحتاج إعادة زحف)
 - [ ] https://daysuntil.bond/cyber-monday-2026/  ← FAQ جديد (موسم الشراء بعد 49 يومًا)
 - [ ] https://daysuntil.bond/us-thanksgiving-2026/  ← FAQ جديد
