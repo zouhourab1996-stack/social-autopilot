@@ -14,6 +14,9 @@
 - [ ] https://daysuntil.bond/ramadan-2027/
 - [ ] https://daysuntil.bond/
 
+## اليوم 1.10 (12 أكتوبر ليلًا — صفحة جديدة كاملة)
+- [ ] https://trustscore.bond/compare/sugarmd-vs-glucosemd/  ← NEW · استعلام GSC حقيقي مركز 9–10.5
+
 ## اليوم 1.9 (12 أكتوبر ليلًا — trustscore مسافة الضرب للإيرادات)
 - [ ] https://trustscore.bond/reviews/mitolyn-review/  ← «mitolyn reviews» مركز 5.67 — كلمة مالية
 - [ ] https://trustscore.bond/compare/best-blood-sugar-supplements/  ← مركز 9.2 + Mitolyn جديد اليوم

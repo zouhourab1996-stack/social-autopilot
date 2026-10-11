@@ -128,3 +128,9 @@ https://www.bmrcalc.bond/2026/10/bmr-formula-all-equations-explained.html?utm_so
 - VA: صورة `https://trustscore.bond/img/blog/fiverr-virtual-assistant-hero.jpg` · رابط صفحة VA · عنوان `Hire a Virtual Assistant on Fiverr From $5/Hr — 12 Best (2026)`
 - Video: صورة `best-fiverr-shorts-editor-hero.jpg` · رابط صفحة الفيديو · عنوان `12 Best Fiverr Shorts & Reels Editors (From $5, Verified)`
 - Voice: صورة `best-fiverr-voice-over-hero.jpg` · رابط صفحة الصوت · عنوان `Best Fiverr Voice Over Artists 2026 — Pro Talent From $5`
+
+
+## bsky — 12 أكتوبر (زناد «انطلق» مستلم — انشر هذا يدويًا)
+
+- **المنشور:** Label honesty check: SugarMD prints doses + lab images, GlucoseMD prints all 7 actives, Snap hides ~25 ingredients in a proprietary blend. The dose you can’t read is the dose you can’t trust. https://trustscore.bond/compare/sugarmd-vs-glucosemd/ #Berberine #BloodSugar #Supplements
+- **الطول:** 281 حرفًا ✓ · هشتاقات 3 ✓ · قيمة:ترويج 2:1 (درس + رابط)
