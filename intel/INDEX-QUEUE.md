@@ -14,6 +14,12 @@
 - [ ] https://daysuntil.bond/ramadan-2027/
 - [ ] https://daysuntil.bond/
 
+## اليوم 1.13 (12 أكتوبر ليلًا — مؤشر التكاليف + prophetic)
+- [ ] https://trustscore.bond/costs/ai-agent-development/
+- [ ] https://trustscore.bond/costs/shopify-store/
+- [ ] https://trustscore.bond/costs/mobile-app-development/
+- [ ] https://prophetic.pw/blog/online-psychic-reading-cost-2026/ (لا — هذه GSC خاصية prophetic)
+
 ## اليوم 1.12 (12 أكتوبر عصرًا — الدفعة العملاقة: ‏8 صفحات)
 - [ ] https://trustscore.bond/reviews/best-fiverr-social-media-management-gigs/
 - [ ] https://trustscore.bond/reviews/best-fiverr-wordpress-developers/

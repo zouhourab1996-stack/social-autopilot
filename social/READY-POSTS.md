@@ -143,6 +143,13 @@ https://trustscore.bond/reviews/best-fiverr-presentation-design-gigs/?utm_source
 
 ## bsky — 13 أكتوبر (غدًا — منشور SugarMD المؤجل من ليلة 12)
 
+## bsky — 14 أكتوبر (ترند التكاليف — صفحة مؤشر الأسعار الجديدة)
+
+- **المنشور:** The same AI agent: $150 on Fiverr, $75,000 from an agency — and both quotes are honest. We mapped every route, what each tier delivers, and when the agency is actually worth it:
+https://trustscore.bond/costs/ai-agent-development/?utm_source=bluesky&utm_medium=social
+#AI #AIAgents #Fiverr
+- **التحقق البرمجي:** يُتحقق عند التسليم (≤300 حرف · 3 هشتاقات)
+
 - **المنشور:** Label honesty check: SugarMD prints doses + lab images, GlucoseMD prints all 7 actives, Snap hides ~25 ingredients in a proprietary blend. The dose you can’t read is the dose you can’t trust. https://trustscore.bond/compare/sugarmd-vs-glucosemd/ #Berberine #BloodSugar #Supplements
 - **الطول:** 281 حرفًا ✓ · هشتاقات 3 ✓ · قيمة:ترويج 2:1 (درس + رابط)
 
