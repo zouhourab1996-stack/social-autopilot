@@ -14,6 +14,11 @@
 - [ ] https://daysuntil.bond/ramadan-2027/
 - [ ] https://daysuntil.bond/
 
+## اليوم 1.11 (12 أكتوبر ظهرًا — دفعة Fiverr ‏2 الجديدة)
+- [ ] https://trustscore.bond/reviews/best-fiverr-book-cover-designers/
+- [ ] https://trustscore.bond/reviews/best-fiverr-podcast-editing-gigs/
+- [ ] https://trustscore.bond/reviews/best-fiverr-resume-writers/
+
 ## اليوم 1.10 (12 أكتوبر ليلًا — صفحة جديدة كاملة)
 - [ ] https://trustscore.bond/compare/sugarmd-vs-glucosemd/  ← NEW · استعلام GSC حقيقي مركز 9–10.5
 
