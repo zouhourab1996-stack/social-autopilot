@@ -14,6 +14,17 @@
 - [ ] https://daysuntil.bond/ramadan-2027/
 - [ ] https://daysuntil.bond/
 
+## اليوم 1.12 (12 أكتوبر عصرًا — الدفعة العملاقة: ‏8 صفحات)
+- [ ] https://trustscore.bond/reviews/best-fiverr-social-media-management-gigs/
+- [ ] https://trustscore.bond/reviews/best-fiverr-wordpress-developers/
+- [ ] https://trustscore.bond/reviews/best-fiverr-tiktok-reels-editors/
+- [ ] https://trustscore.bond/reviews/best-fiverr-data-entry-services/
+- [ ] https://trustscore.bond/reviews/best-fiverr-presentation-design-gigs/
+- [ ] https://trustscore.bond/reviews/best-fiverr-email-marketing-gigs/
+- [ ] https://trustscore.bond/reviews/best-fiverr-3d-product-rendering-gigs/
+- [ ] https://trustscore.bond/reviews/best-fiverr-google-ads-experts/
+(الأسرع: قدم sitemap-fiverr-batch.xml دفعة واحدة — 11 رابطًا)
+
 ## اليوم 1.11 (12 أكتوبر ظهرًا — دفعة Fiverr ‏2 الجديدة)
 - [ ] https://trustscore.bond/reviews/best-fiverr-book-cover-designers/
 - [ ] https://trustscore.bond/reviews/best-fiverr-podcast-editing-gigs/
