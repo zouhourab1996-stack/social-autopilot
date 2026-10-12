@@ -14,6 +14,18 @@
 - [ ] https://daysuntil.bond/ramadan-2027/
 - [ ] https://daysuntil.bond/
 
+## اليوم 1.14 (12–13 أكتوبر ليلًا — الخطط الخمس: 9 صفحات + مقال)
+- [ ] https://trustscore.bond/compare/fiverr-vs-99designs/
+- [ ] https://trustscore.bond/compare/fiverr-logo-maker-vs-designer/
+- [ ] https://trustscore.bond/compare/upwork-alternatives/
+- [ ] https://trustscore.bond/compare/99designs-alternatives/
+- [ ] https://trustscore.bond/guides/fiverr-for-etsy-sellers/
+- [ ] https://trustscore.bond/guides/fiverr-for-podcasters/
+- [ ] https://trustscore.bond/guides/fiverr-for-youtube-channels/
+- [ ] https://trustscore.bond/guides/how-to-hire-on-fiverr/
+- [ ] https://trustscore.bond/guides/how-to-write-a-design-brief/
+(الأولوية للصفحات الأربع compare — نوايا شرائية أعلى)
+
 ## اليوم 1.13 (12 أكتوبر ليلًا — مؤشر التكاليف + prophetic)
 - [ ] https://trustscore.bond/costs/ai-agent-development/
 - [ ] https://trustscore.bond/costs/shopify-store/

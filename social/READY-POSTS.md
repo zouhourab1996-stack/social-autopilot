@@ -143,6 +143,20 @@ https://trustscore.bond/reviews/best-fiverr-presentation-design-gigs/?utm_source
 
 ## bsky — 13 أكتوبر (غدًا — منشور SugarMD المؤجل من ليلة 12)
 
+## bsky — 16 أكتوبر (خطة VS — صفحة المواجهة الجديدة)
+
+- **المنشور:** A 99designs contest costs $299+ and a 5% fee at checkout — and 29 of the 30 competing designers are paid nothing. The honest Fiverr-vs-99designs math, including when the contest is actually worth it:
+https://trustscore.bond/compare/fiverr-vs-99designs/?utm_source=bluesky&utm_medium=social
+#LogoDesign #Fiverr #Design
+- **التحقق:** يُتحقق عند التسليم (≤300 · 3 هشتاقات)
+
+## 📌 حزمة Pinterest — الخطط الخمس (5 pins للمالك · صور من img/blog/)
+1. صورة: `best-fiverr-logo-designers-hero.jpg` → رابط `/compare/fiverr-vs-99designs/` → عنوان «Fiverr vs 99designs: The $25 vs $299 Honest Math (2026)»
+2. صورة: `best-fiverr-ai-automation-gigs-hero.jpg` → رابط `/costs/ai-agent-development/` → عنوان «AI Agent Cost 2026: $150 on Fiverr vs $75,000 Agencies»
+3. صورة: `best-fiverr-voice-over-hero.jpg` → رابط `/guides/fiverr-for-youtube-channels/` → عنوان «The Faceless YouTube Stack, Priced (Every Piece From $5)»
+4. صورة: `best-fiverr-illustration-gigs-hero.jpg` → رابط `/guides/fiverr-for-etsy-sellers/` → عنوان «6 Fiverr Gigs Every Etsy Seller Needs (From $5)»
+5. صورة: `best-fiverr-podcast-editing-gigs-hero.jpg` → رابط `/guides/fiverr-for-podcasters/` → عنوان «Podcast Editing From $5/Episode — Verified 2026 Prices»
+
 ## bsky — 14 أكتوبر (ترند التكاليف — صفحة مؤشر الأسعار الجديدة)
 
 - **المنشور:** The same AI agent: $150 on Fiverr, $75,000 from an agency — and both quotes are honest. We mapped every route, what each tier delivers, and when the agency is actually worth it:
