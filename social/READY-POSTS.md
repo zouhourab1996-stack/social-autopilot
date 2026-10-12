@@ -130,7 +130,21 @@ https://www.bmrcalc.bond/2026/10/bmr-formula-all-equations-explained.html?utm_so
 - Voice: صورة `best-fiverr-voice-over-hero.jpg` · رابط صفحة الصوت · عنوان `Best Fiverr Voice Over Artists 2026 — Pro Talent From $5`
 
 
-## bsky — 12 أكتوبر (زناد «انطلق» مستلم — انشر هذا يدويًا)
+## bsky — 12 أكتوبر مساءً (منشور اليوم — الدفعة العملاقة · أمر المالك «انشر على bsk»)
+
+- **المنشور (انسخه كما هو):**
+```
+The same pitch deck: $5, $250, or $1,600 on Fiverr. We charted what changes at each price — and the 2 words that decide whether you own your deck or rent it:
+https://trustscore.bond/reviews/best-fiverr-presentation-design-gigs/?utm_source=bluesky&utm_medium=social
+#PowerPoint #PitchDeck #Fiverr
+```
+- **التحقق البرمجي:** 295 حرفًا ✓ · هشتاقات 3 ✓ · رابط بUTM ✓ · قيمة+رابط (2:1) ✓
+- **السياق:** ترويج مبكر لصفحة من الدفعة العملاقة (8 صفحات @ `3f7993a`) — إشارة اجتماعية ساعات بعد النشر تساعد الاكتشاف.
+
+## bsky — 13 أكتوبر (غدًا — منشور SugarMD المؤجل من ليلة 12)
+
+- **المنشور:** Label honesty check: SugarMD prints doses + lab images, GlucoseMD prints all 7 actives, Snap hides ~25 ingredients in a proprietary blend. The dose you can’t read is the dose you can’t trust. https://trustscore.bond/compare/sugarmd-vs-glucosemd/ #Berberine #BloodSugar #Supplements
+- **الطول:** 281 حرفًا ✓ · هشتاقات 3 ✓ · قيمة:ترويج 2:1 (درس + رابط)
 
 - **المنشور:** Label honesty check: SugarMD prints doses + lab images, GlucoseMD prints all 7 actives, Snap hides ~25 ingredients in a proprietary blend. The dose you can’t read is the dose you can’t trust. https://trustscore.bond/compare/sugarmd-vs-glucosemd/ #Berberine #BloodSugar #Supplements
 - **الطول:** 281 حرفًا ✓ · هشتاقات 3 ✓ · قيمة:ترويج 2:1 (درس + رابط)
