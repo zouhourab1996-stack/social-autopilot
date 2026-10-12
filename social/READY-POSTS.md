@@ -145,10 +145,10 @@ https://trustscore.bond/reviews/best-fiverr-presentation-design-gigs/?utm_source
 
 ## bsky — 16 أكتوبر (خطة VS — صفحة المواجهة الجديدة)
 
-- **المنشور:** A 99designs contest costs $299+ and a 5% fee at checkout — and 29 of the 30 competing designers are paid nothing. The honest Fiverr-vs-99designs math, including when the contest is actually worth it:
+- **المنشور:** A $299 99designs contest adds a 5% fee at checkout — and pays 29 of 30 competing designers nothing. The honest Fiverr-vs-99designs math, incl. when the contest wins:
 https://trustscore.bond/compare/fiverr-vs-99designs/?utm_source=bluesky&utm_medium=social
 #LogoDesign #Fiverr #Design
-- **التحقق:** يُتحقق عند التسليم (≤300 · 3 هشتاقات)
+- **التحقق البرمجي:** 281 حرفًا ✓ · 3 هشتاقات ✓
 
 ## 📌 حزمة Pinterest — الخطط الخمس (5 pins للمالك · صور من img/blog/)
 1. صورة: `best-fiverr-logo-designers-hero.jpg` → رابط `/compare/fiverr-vs-99designs/` → عنوان «Fiverr vs 99designs: The $25 vs $299 Honest Math (2026)»
