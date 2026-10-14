@@ -1,0 +1,44 @@
+<!-- ============================================= -->
+<!-- FAQPage Auto-Schema لمدونة propheticguidance2026 -->
+<!-- الموضع: Blogger ← المظهر ← تعديل HTML ← الصق قبل </body> مباشرة ← حفظ -->
+<!-- يعمل تلقائيًا على كل منشورات المستقبل أيضًا — لصقة واحدة فقط -->
+<!-- ============================================= -->
+<script>
+(function () {
+  if (!/\/\d{4}\/\d{2}\//.test(location.pathname)) return;
+  var blocks = document.querySelectorAll('script[type="application/ld+json"]');
+  for (var i = 0; i < blocks.length; i++) {
+    if (blocks[i].textContent.indexOf('"FAQPage"') > -1) return;
+  }
+  var body = document.querySelector('.post-body, .entry-content, [itemprop="articleBody"]');
+  if (!body) return;
+  var faqs = [];
+  var heads = body.querySelectorAll('h2, h3, h4');
+  for (var j = 0; j < heads.length; j++) {
+    var h = heads[j];
+    var q = (h.textContent || '').replace(/\s+/g, ' ').trim();
+    if (q.indexOf('?') === -1 || q.charAt(q.length - 1) !== '?') continue;
+    q = q.replace(/^Q\s*\d*\s*[:.]\s*/i, '').trim();
+    var out = '', n = h.nextElementSibling;
+    while (n && !/^H[1-4]$/.test(n.tagName)) { out += ' ' + n.textContent; n = n.nextElementSibling; }
+    out = out.replace(/\s+/g, ' ').replace(/^A\s*[:.]\s*/i, '').trim();
+    if (out.length < 60) continue;
+    faqs.push({ name: q, text: out.slice(0, 2000) });
+  }
+  if (faqs.length < 2) return;
+  var ld = document.createElement('script');
+  ld.type = 'application/ld+json';
+  ld.textContent = JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqs.map(function (f) {
+      return {
+        "@type": "Question",
+        "name": f.name,
+        "acceptedAnswer": { "@type": "Answer", "text": f.text }
+      };
+    })
+  });
+  document.head.appendChild(ld);
+})();
+</script>

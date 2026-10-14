@@ -169,3 +169,8 @@ https://trustscore.bond/costs/ai-agent-development/?utm_source=bluesky&utm_mediu
 
 - **المنشور:** Label honesty check: SugarMD prints doses + lab images, GlucoseMD prints all 7 actives, Snap hides ~25 ingredients in a proprietary blend. The dose you can’t read is the dose you can’t trust. https://trustscore.bond/compare/sugarmd-vs-glucosemd/ #Berberine #BloodSugar #Supplements
 - **الطول:** 281 حرفًا ✓ · هشتاقات 3 ✓ · قيمة:ترويج 2:1 (درس + رابط)
+
+
+## bsky — الثلاثاء 14 أكتوبر (إطلاق retiree.bond)
+
+Your retirement isn't a vague 'someday' — it's a number that shrinks every day. Days left. Work days left. Paychecks left. A free countdown shows all three: no signup, no app, saved in your browser. https://retiree.bond/ #Retirement #Countdown
