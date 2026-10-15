@@ -174,3 +174,10 @@ https://trustscore.bond/costs/ai-agent-development/?utm_source=bluesky&utm_mediu
 ## bsky — الثلاثاء 14 أكتوبر (إطلاق retiree.bond)
 
 Your retirement isn't a vague 'someday' — it's a number that shrinks every day. Days left. Work days left. Paychecks left. A free countdown shows all three: no signup, no app, saved in your browser. https://retiree.bond/ #Retirement #Countdown
+
+
+## bsky — خيار إضافي جاهز (طلقة Seraphina — المسار A)
+
+A new tarot offer appeared in July 2026 and almost nobody has reviewed it honestly yet. We checked the price, the refund rules and the thin track record — read before you buy: https://prophetic.pw/blog/seraphina-tarot-reading-review/ #Tarot #Spirituality
+
+(254 حرفًا · 2 هشتاغ ✓ — ينتظر «انطلق»؛ خيار اليوم المجدول: منشور 99designs الجاهز سابقًا)
