@@ -7,9 +7,9 @@
 | The Last Wish | UMAKEBREAD | 88.85 | $48.49 | tsblastwish | trustscore/the-last-wish-review ✅ + twinflame/1010 ✅ |
 | Eastern Astrology Language | ASTROLAN | 68.97 | $38.62 | tsbastrolang | trustscore/astrology-language-review ✅ + twinflame/zodiac ✅ |
 | Joint Genesis | JOINTGEN | 67.86 | $168.62 | (قديم) | trustscore marketplace ✅ (مراجعة كاملة = حصة قادمة) |
-| Seraphina Tarot | SERAPHTARO | 28.08 | $37.20 | (عبر config twinflame) | twinflame/fiverr-readings ✅ (صفحة مراجعة = قادمة) |
+| Seraphina Tarot | SERAPHTARO | 28.08 | $37.20 | ppwseraphina | twinflame/fiverr-readings ✅ + **prophetic/seraphina-tarot-reading-review ✅ (16/10)** |
 | Liv Pure | LIVPURE | 26.87 | $174.22 | (قديم) | trustscore/livpure-review ✅ |
-| MysterySchool Code | MYSTERY42 | 21.55 | $48.68 | (عبر config) | config جاهز (صفحة = قادمة) ⚠️ |
+| MysterySchool Code | MYSTERY42 | 21.55 | $48.68 | ppwmystery | **prophetic/mystery-school-code-review ✅ (16/10)** + config twinflame جاهز ⚠️ |
 | 14 Day Rapid Soup Diet | KETOSOUP82 | 12.45 | $24.81 | tsbsoup | trustscore/rapid-soup-diet-review ✅ |
 | Go Digital Income | SMPM123 | 11.25 | $12.35 | tsbgdi | trustscore/go-digital-income-review ✅ |
 | The Smoothie Diet | SMOOTHDIET | 9.52 | $21.74 | (قديم) | trustscore/smoothie-diet-review ✅ |
