@@ -25,3 +25,20 @@
 ## twinflame per-offer tids (16/10 — app.js يستخدم o.tid||tfb)
 tfbsketch·tfbtwin·tfbreading·tfbsoulsk·tfbnumerology·tfbastro·tfbbioenergy·tfbwealth·tfbarchetype·tfbmanifest·tfbseraphina·tfbmystery·tfbeastern·tfblastwish
 **تصحيح مفاتيح IndexNow:** twinflame = `b00319baec734ccb90683521e219f02f` (تنتهي 02f — ليست 02b).
+
+
+## 📊 قياس 30 يومًا (Sep 20 – Oct 19 · لوحة Reporting · قياس المالك 19/10)
+**إجمالي الحساب heditouati:** Unique Hops **286** · Initial Order Form Impressions **3** (3 فريدة) · Initial Sales **0** · Gross Earnings **$0**
+**قمع الحساب:** hops→نموذج الطلب = **1.05%** (3/286) · نموذج→بيع = 0 · **71 بائعًا** في الحساب
+
+**من هم في قائمة أفضل 20 (نتاجنا مقابل القديم):**
+| البائع | hops | فريدة | نموذج طلب | الانتماء |
+|---|---|---|---|---|
+| prodentim | 13 | 13 | 1 | قديم (Blogger/خصائص سابقة) |
+| **astrolan** | **10** | **9** | 0 | ✅ **نتاجنا** — Eastern Astrology Language (tid tsbastrolang) |
+| **geniusbr** | **8** | **8** | **2** | ⭐ **نتاجنا (شبه مؤكد: The Genius Switch, tid tsbgenius)** — حصد **2 من 3** نماذج طلب في الحساب كله |
+| darkreset · enrev | 6 | 6 | 0 | قديم |
+| bigdogs · fcofrancis · hkultra · visiflora · brainsongx · prostapeak · getneuro · bousa1 · metabodrop · 137secrets | 3 | 3 | 0 | قديم (كلها عند حدّ 3) |
+
+**الاستنتاج الذهبي:** geniusbr ‏حصد **67% من نماذج الطلب في الحساب كله** (2 من 3) من **2.8% فقط من الـhops** (8 من 286) = معدّل hops→نموذج طلب **25%** مقابل **1.05%** للحساب كله — **أي زيارة من صفحاتنا الجديدة تساوي ~24 زيارة من الروابط القديمة**. العكس: astrolan ‏10 hops → 0 نماذج (0%).
+**تحفّظ:** النافذة (20 سبتمبر–19 أكتوبر) تسبق إنشاء tids ‏نتاجنا (من 14/10) — أغلب الـ286 من خصائص المالك القديمة (Blogger 161+34 · bmrcalc) لا من شبكتنا. **الفصل الدقيق يحتاج HopLink ‏Activity ‏بالتtid** (المهمة المعلقة).
